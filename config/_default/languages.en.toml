@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "BigSky"
+logo = "☠️⚙️"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "BigSky"
+  image = "img/headshot.jpg"
+  headline = "a single reliable PC can monitor the operations of a herd of supercomputers with powerful but unreliable software and untested hardware..."
+  bio = "a single reliable PC can monitor the operation of a herd of supercomputers with powerful by unreliable software and untested hardware.."
+  links = [
+    { twitter = "https://twitter.com/bigsky_7" },
+    { github = "https://github.com/bigsky77" },
+  ]
